@@ -4,7 +4,8 @@
     Praat Objects(window)/Open(tab)/Read from file/(a wav file)/View & Edit
     1.Sound (window)/Analyses(tab)/Show Analyses/Show Spectrogram+Show Intensity/OK
     1.Sound (window)/Play(tab)/Play/Apply
-    
+
+![](./praat.png)
 
 # Praat: doing phonetics by computer
 
