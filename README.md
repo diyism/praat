@@ -2,7 +2,7 @@
     $ tar xvf praat6412_linux-intel64.tar.gz
     $ ./praat
     Praat Objects(window)/Open(tab)/Read from file/(a wav file)/View & Edit
-    1.Sound (window)/Analyses(tab)/Show Analyses/Show Spectrogram+Show Pitch+Show Intensity/OK
+    1.Sound (window)/Analyses(tab)/Show Analyses/Show Spectrogram+Show Intensity/OK
     1.Sound (window)/Play(tab)/Play/Apply
     
 
