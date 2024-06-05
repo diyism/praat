@@ -5,6 +5,8 @@
     1.Sound (window)/Analyses(tab)/Show Analyses/Show Spectrogram+Show Intensity/OK
     1.Sound (window)/Play(tab)/Play/Apply
 
+jiang3you3 bo2 bei4 pai1 dao4 dai4 zhe3 nv3er2 chu1 you2
+
 ![](./praat.png)
 
 # Praat: doing phonetics by computer
